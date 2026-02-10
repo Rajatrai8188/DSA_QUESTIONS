@@ -11,4 +11,13 @@ I solve the code and push my code here.
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
