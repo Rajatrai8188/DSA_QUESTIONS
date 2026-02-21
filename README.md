@@ -19,6 +19,7 @@ I solve the code and push my code here.
 | ------- |
 | [0231-power-of-two](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0342-power-of-four) |
 | [1903-largest-odd-number-in-string](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -40,9 +41,11 @@ I solve the code and push my code here.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
