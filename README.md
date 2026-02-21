@@ -17,6 +17,7 @@ I solve the code and push my code here.
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -34,4 +35,12 @@ I solve the code and push my code here.
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0205-isomorphic-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
