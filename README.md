@@ -6,6 +6,7 @@ I solve the code and push my code here.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
@@ -24,10 +25,12 @@ I solve the code and push my code here.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
