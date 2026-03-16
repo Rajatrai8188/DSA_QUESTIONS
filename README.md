@@ -7,6 +7,7 @@ I solve the code and push my code here.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
@@ -32,6 +33,7 @@ I solve the code and push my code here.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0015-3sum) |
 ## Trie
 |  |
 | ------- |
@@ -51,4 +53,8 @@ I solve the code and push my code here.
 | [0231-power-of-two](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0342-power-of-four) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
