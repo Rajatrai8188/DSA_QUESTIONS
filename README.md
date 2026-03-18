@@ -37,6 +37,7 @@ I solve the code and push my code here.
 | [0015-3sum](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0042-trapping-rain-water) |
+| [0073-set-matrix-zeroes](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0704-binary-search](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0704-binary-search) |
 ## Trie
 |  |
@@ -45,6 +46,7 @@ I solve the code and push my code here.
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0205-isomorphic-strings) |
 ## Bit Manipulation
 |  |
@@ -78,4 +80,8 @@ I solve the code and push my code here.
 | ------- |
 | [0035-search-insert-position](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0704-binary-search) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
