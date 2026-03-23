@@ -16,6 +16,7 @@ I solve the code and push my code here.
 | [0014-longest-common-prefix](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -84,4 +85,8 @@ I solve the code and push my code here.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0073-set-matrix-zeroes) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
