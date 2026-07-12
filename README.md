@@ -16,6 +16,7 @@ I solve the code and push my code here.
 | [0008-string-to-integer-atoi](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0242-valid-anagram) |
@@ -80,6 +81,7 @@ I solve the code and push my code here.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -116,4 +118,8 @@ I solve the code and push my code here.
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
