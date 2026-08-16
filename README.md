@@ -46,6 +46,7 @@ I solve the code and push my code here.
 | [0015-3sum](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0704-binary-search](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0704-binary-search) |
 ## Trie
@@ -83,6 +84,7 @@ I solve the code and push my code here.
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -122,4 +124,8 @@ I solve the code and push my code here.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Rajatrai8188/DSA_QUESTIONS/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
